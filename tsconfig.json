@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "rootDir": "./instrumented",
+    "outDir": "dist",
+    "target": "ES5",
+    "experimentalDecorators": true
+  },
+  "include": ["instrumented/**/*"],
+}
